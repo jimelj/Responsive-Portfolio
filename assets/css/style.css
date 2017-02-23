@@ -249,7 +249,16 @@ img {
 @media screen and (max-width: 980px) {
   #main {
       width: 422px;
+
   }
+
+  .imgcontainer:nth-child(odd) {
+    margin-right: 0;
+  }
+  .imgcontainer{
+    width: auto;
+  }
+
   #sidebar {
       width: 270px;
       height: 170px;
