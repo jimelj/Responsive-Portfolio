@@ -160,7 +160,7 @@ nav a {
 }
 
 html {
-  margin-bottom: 100px;
+  margin-bottom: 130px;
 }
 
 a:link {
@@ -187,6 +187,16 @@ input {
 
 input[name] {
   margin: 10px 0;
+}
+
+input[type="submit"] {
+  width: auto;
+  padding: 10px 30px;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  background: #4aaaa5;
+  border: 0 none;
 }
 
 textarea {
@@ -298,7 +308,7 @@ img {
           width: 50%;
       }
       html {
-          margin-bottom: 120px;
+          margin-bottom: 130px;
 }
 .images {
 /*padding-left: 20px;*/
